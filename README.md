@@ -1,5 +1,5 @@
 # ERA5 Data Retrieval Repository
-![](https://github.com/NodiraTillayeva/ERA5Analysis/blob/main/NetCDF_Viz.png)
+
 ## Introduction
 This repository contains scripts and tools for retrieving and processing ERA5 datasets. ERA5 provides hourly updates of a large number of atmospheric, land, and oceanic climate variables. These datasets are invaluable for climate research, weather forecasting, and environmental modeling esspecially in the context of Uzbekistan. 
 
