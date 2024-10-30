@@ -1,5 +1,8 @@
 # ERA5 Data Retrieval Repository
 
+<a href="https://doi.org/10.5281/zenodo.14011657"><img src="https://zenodo.org/badge/443508628.svg" alt="DOI"></a>
+
+
 ## Introduction
 This repository contains scripts and tools for retrieving and processing ERA5 datasets. ERA5 provides hourly updates of a large number of atmospheric, land, and oceanic climate variables. These datasets are invaluable for climate research, weather forecasting, and environmental modeling esspecially in the context of Uzbekistan. 
 
